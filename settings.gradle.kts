@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "StepProgressBar"
 include(":app")
+include(":stepprogressbar")
